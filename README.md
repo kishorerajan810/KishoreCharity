@@ -1,4 +1,3 @@
-# KishoreCharity
 
 # KishoreCharity Spark Foundation
 
